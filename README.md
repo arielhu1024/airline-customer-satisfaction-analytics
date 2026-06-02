@@ -57,10 +57,6 @@ The project includes the following modeling workflow:
 | Random Forest | 0.9632 | 0.9724 | 0.9429 | 0.9574 | 0.9940 |
 | XGBoost | 0.9643 | 0.9737 | 0.9441 | 0.9587 | 0.9953 |
 
-<p align="center">
-  <img src="figures/model_performance_comparison.png" width="750">
-</p>
-
 ---
 
 ## Key Findings
