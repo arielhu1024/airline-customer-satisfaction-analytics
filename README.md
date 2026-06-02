@@ -83,7 +83,9 @@ These results suggest that airlines can improve customer satisfaction by priorit
 │   └── README.md
 │
 ├── docs/
-│   └── Final_Project_Report.pdf
+│   ├── Final_Project_Report.pdf
+│   ├── test.csv
+│   ├── train.csv
 │
 ├── figures/
 │   ├── model_performance_comparison.png
