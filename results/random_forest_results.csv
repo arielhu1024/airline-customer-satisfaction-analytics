@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC,Training Time (s)
+Random Forest,0.963197,0.972416,0.94291,0.957435,0.993972,280.82

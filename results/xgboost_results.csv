@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC,Training Time (s)
+XGBoost,0.964275,0.973682,0.944138,0.958682,0.995279,32.19

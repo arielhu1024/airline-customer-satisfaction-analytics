@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC,Training Time (s)
+Logistic Regression,0.871535,0.868042,0.834166,0.850767,0.92563,23.95

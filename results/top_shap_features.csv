@@ -1,0 +1,11 @@
+Feature,Mean_ABS_SHAP
+Inflight wifi service,0.031126
+Customer Type,0.021008
+Online boarding,0.00308
+Leg room service,0.001839
+Class,0.001769
+Arrival Delay in Minutes,0.001523
+Ease of Online booking,0.001358
+Gate location,0.001295
+Departure Delay in Minutes,0.001272
+Checkin service,0.0011
